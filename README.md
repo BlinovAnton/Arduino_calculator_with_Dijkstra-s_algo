@@ -7,4 +7,5 @@ C - clear lcd
 <- (arrow left) - delete last symbol in expression
 1st string for input expression, 2nd string for answer.
 Expression can contain 24 symbols (if symbols more, than 16 - 1st string get offset a half
+отчёт is report, приложение 1,2,3 - applications for report.
 P.S sorry for bad english
