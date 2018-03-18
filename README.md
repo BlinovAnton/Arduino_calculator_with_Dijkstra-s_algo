@@ -9,4 +9,4 @@ C - clear lcd.
 Calculting iscarring out with help of Dijkstra's algorithm of railroad (translating of expression into postfix notation). 
 Expression can contain 24 symbols (if symbols more, than 16 - 1st string get offset a half.
 отчёт is report, приложение 1,2,3 - applications for report.
-P.S sorry for bad english.
+P.S. sorry for bad english.
